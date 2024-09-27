@@ -39,7 +39,7 @@ sudo apt-get update
 sudo apt-get full-upgrade
 
 # Install requirements
-sudo apt-get install curl zip unzip openjdk-21
+sudo apt-get install curl zip unzip openjdk-21-jdk
 ```
 
 **Yum**
